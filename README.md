@@ -4,7 +4,6 @@
 
 # After SEIR Daily Code Challenges
 
-***
 ## Technologies Used
 * HTML5
 * CSS3
